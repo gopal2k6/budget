@@ -1,0 +1,2 @@
+.expense-item{display: flex; padding: 10px 20px; background-color:brown; color: azure; font-size: 20px; margin-bottom: 20px;}
+.expense-item>div{ flex-grow: 1;}
